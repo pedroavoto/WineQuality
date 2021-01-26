@@ -80,7 +80,11 @@ The dataset selected are related to red and white wine from a specific region ca
    <p align="center">
       <img src= "https://user-images.githubusercontent.com/49216807/105788131-b5ebce00-5f34-11eb-9504-ac2c43c66342.jpg">
     </p>
+
+###### Brief description of each attribute: 
     
+###### Appropriate measures of the central tendency and dispersion for attributes: 
+
 #### Data preprocessing
 
 #### Exploratory data analysis
