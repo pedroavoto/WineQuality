@@ -69,9 +69,9 @@ Based on data of red and white wines from Portugal, we will try to predict the o
 The dataset selected are related to red and white wine from a specific region called Minho in the north-western of Portugal. The dataset has attributes such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol that was measured from samples in the laboratory. Moreover, the dataset also contains classification of the wine measured by a group of three assessors, using blind tastes, that is qualified from 0 to 10 the quality of the wine.  
 ###### Dataset Size:  
 
-  - Red wine: 1599 records 
+  - Red wine: 1599 records, 12 attributes
 
-  - White wine: 4898 records 
+  - White wine: 4898 records, 12 attributes
   
 ###### Data samples
    - Red wine:
