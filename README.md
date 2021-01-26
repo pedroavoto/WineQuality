@@ -78,7 +78,7 @@ The dataset selected are related to red and white wine from a specific region ca
     </p>
    - White wine:
    <p align="center">
-      <img>
+      <img src= "https://user-images.githubusercontent.com/49216807/105788131-b5ebce00-5f34-11eb-9504-ac2c43c66342.jpg">
     </p>
     
 #### Data preprocessing
