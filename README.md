@@ -16,7 +16,7 @@ Based on data of red and white wines from Portugal, we will try to predict the o
 
 •	Classification: K Nearest Neighbor (KNN), Naïve Bayesian, Decision Tree, Random Forest Classifier
 #### Intended experiments: What experiments are you planning to run?
-•	Regression: 
+•	Regression:&nbsp; 
 
   o	Compare Model Experiment:
 
@@ -27,7 +27,7 @@ Based on data of red and white wines from Portugal, we will try to predict the o
   o	Tuning Best Model Experiment:
   - Generally: Find best testing-training set ratio 
   
-•	Classification:
+•	Classification:&nbsp;
 
   o	Compare Model Experiment: 
 
@@ -41,12 +41,12 @@ Based on data of red and white wines from Portugal, we will try to predict the o
   -	These models are all tested with the same train-test data set within the framework of Cross-Validation with t number of iterations.
   
 #### How do you plan to evaluate your machine learning algorithm?
-•	Regression: 
+•	Regression:&nbsp; 
   o	Framework: K-fold Cross-Validation
 
   o	Metrics: RMSE, R^2
 
-•	Classification: 
+•	Classification:&nbsp; 
   o	Framework: K-fold Cross-Validation
 
   o	Metrics: Confusion Matrix, ROC Curve, Precision & Recall Curve
@@ -64,6 +64,23 @@ Based on data of red and white wines from Portugal, we will try to predict the o
 
 #### Datasets
 
+The dataset selected are related to red and white wine from a specific region called Minho in the north-western of Portugal. The dataset has attributes such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol that was measured from samples in the laboratory. Moreover, the dataset also contains classification of the wine measured by a group of three assessors, using blind tastes, that is qualified from 0 to 10 the quality of the wine.  
+###### Dataset Size:  
+
+  - Red wine: 1599 records 
+
+  - White wine: 4898 records 
+  
+###### Data samples
+   - Red wine:
+    <p align="center">
+      <img>
+    </p>
+   - White wine:
+   <p align="center">
+      <img>
+    </p>
+    
 #### Data preprocessing
 
 #### Exploratory data analysis
