@@ -1,6 +1,6 @@
 # Predicting Wine Quality
 
-## MLP 1: Project design and milestone
+## MLP 1: Project Design and Milestone
 
 #### Design Document
 #### Motivation: What problem are you tackling?
