@@ -42,11 +42,13 @@ Based on data of red and white wines from Portugal, we will try to predict the o
   
 #### How do you plan to evaluate your machine learning algorithm?
 •	Regression:&nbsp; 
+
   o	Framework: K-fold Cross-Validation
 
   o	Metrics: RMSE, R^2
 
 •	Classification:&nbsp; 
+
   o	Framework: K-fold Cross-Validation
 
   o	Metrics: Confusion Matrix, ROC Curve, Precision & Recall Curve
