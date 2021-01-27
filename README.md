@@ -117,6 +117,11 @@ The dataset selected are related to red and white wine from a specific region ca
 - Quality: output variable --- (based on sensory data, score between 0 and 10)
     
 ##### Appropriate measures of the central tendency and dispersion for attributes: 
+
+
+### Data preprocessing
+
+##### Descriptive Statistics:
 - White wine:
    <p align="center">
       <img src= "https://user-images.githubusercontent.com/49216807/105935969-bf923600-6007-11eb-975e-fbb1ee2e1771.PNG">
@@ -125,8 +130,31 @@ The dataset selected are related to red and white wine from a specific region ca
    <p align="center">
       <img src= "https://user-images.githubusercontent.com/49216807/105936055-e18bb880-6007-11eb-816d-93cc5e6367dd.PNG">
    </p>
-
-### Data preprocessing
+   
+ ##### Data Visualization:
+ 
+ - White wine:
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105936762-22d09800-6009-11eb-90c7-2eb65e02ece6.PNG">
+   </p>
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105936857-47c50b00-6009-11eb-967d-a70b6fd9f9ee.PNG">
+   </p>
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105936932-67f4ca00-6009-11eb-9c94-9c8b0fc45080.PNG">
+   </p>
+   
+ - Red wine:
+ 
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105936997-8955b600-6009-11eb-821e-16ef65463f52.PNG">
+   </p>
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105937039-9bcfef80-6009-11eb-9321-59e8677a7001.PNG">
+   </p>
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105937068-abe7cf00-6009-11eb-915e-ff7ba4ef28b0.PNG">
+   </p>
 
 ### Exploratory data analysis
 
