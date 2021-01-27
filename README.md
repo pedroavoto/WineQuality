@@ -83,7 +83,7 @@ The dataset selected are related to red and white wine from a specific region ca
     </p>
     
    - Red wine:
-   <p align="center">
+    <p align="center">
       <img src= "https://user-images.githubusercontent.com/49216807/105935508-e9972880-6006-11eb-973c-8d18333459bc.PNG">
     </p>
     <p align="center">
@@ -117,6 +117,10 @@ The dataset selected are related to red and white wine from a specific region ca
 - Quality: output variable --- (based on sensory data, score between 0 and 10)
     
 ###### Appropriate measures of the central tendency and dispersion for attributes: 
+
+    <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105935550-fe73bc00-6006-11eb-9c07-d46d180b10e1.PNG">
+    </p>
 
 #### Data preprocessing
 
