@@ -74,13 +74,20 @@ The dataset selected are related to red and white wine from a specific region ca
   - White wine: 4898 records, 12 attributes
   
 ###### Data samples
-   - Red wine:
-    <p align="center">
-      <img src= "https://user-images.githubusercontent.com/49216807/105787938-5097dd00-5f34-11eb-9717-1a7007dc7613.jpg">
-    </p>
    - White wine:
+    <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105935340-a76de700-6006-11eb-926e-4ee285d75c54.PNG">
+    </p>
+    <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105935380-bb194d80-6006-11eb-8ac1-79a5926cb820.PNG">
+    </p>
+    
+   - Red wine:
    <p align="center">
-      <img src= "https://user-images.githubusercontent.com/49216807/105788131-b5ebce00-5f34-11eb-9504-ac2c43c66342.jpg">
+      <img src= "https://user-images.githubusercontent.com/49216807/105935508-e9972880-6006-11eb-973c-8d18333459bc.PNG">
+    </p>
+    <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105935550-fe73bc00-6006-11eb-9c07-d46d180b10e1.PNG">
     </p>
 
 ###### Brief description of each attribute: 
