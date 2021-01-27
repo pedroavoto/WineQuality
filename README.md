@@ -131,7 +131,7 @@ The dataset selected are related to red and white wine from a specific region ca
       <img src= "https://user-images.githubusercontent.com/49216807/105936055-e18bb880-6007-11eb-816d-93cc5e6367dd.PNG">
    </p>
    
- ##### Data Visualization:
+ ##### Boxplot:
  
  - White wine:
    <p align="center">
@@ -154,6 +154,31 @@ The dataset selected are related to red and white wine from a specific region ca
    </p>
    <p align="center">
       <img src= "https://user-images.githubusercontent.com/49216807/105937068-abe7cf00-6009-11eb-915e-ff7ba4ef28b0.PNG">
+   </p>
+   
+##### Histogram:
+
+- White wine:
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105937722-fddd2480-600a-11eb-847a-a92a593f7406.PNG">
+   </p>
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105937762-0f263100-600b-11eb-9315-235b56d7a5d0.PNG">
+   </p>
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105937792-1cdbb680-600b-11eb-9a08-cc125fd21564.PNG">
+   </p>
+
+- Red wine:
+ 
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105937827-311fb380-600b-11eb-830c-40530cd4da9f.PNG">
+   </p>
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105937864-40066600-600b-11eb-9e36-d54a5300cd26.PNG">
+   </p>
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/105937891-4c8abe80-600b-11eb-8534-3c406aab6067.PNG">
    </p>
 
 ### Exploratory data analysis
