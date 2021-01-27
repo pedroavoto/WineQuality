@@ -18,24 +18,24 @@ Based on data of red and white wines from Portugal, we will try to predict the o
 ### Intended experiments: What experiments are you planning to run?
 •	Regression:&nbsp; 
 
-  o	Compare Model Experiment:
+  • Compare Model Experiment:
 
   -	Algorithm: linear regression with different regularization
   -	Independent Variable: learning algorithms
   -	Dependent Variable: Model performance (metrics)
   
-  o	Tuning Best Model Experiment:
+  • Tuning Best Model Experiment:
   - Generally: Find best testing-training set ratio 
   
 •	Classification:&nbsp;
 
-  o	Compare Model Experiment: 
+  • Compare Model Experiment: 
 
   - Algorithm: K Nearest Neighbor (KNN), Naïve Bayesian, Decision Tree, Random Forest Classifier
   - Independent Variable: learning algorithms
   - Dependent Variable: Model performance (metrics)
   
-  o	Tuning Best Model Experiment:
+  • Tuning Best Model Experiment:
 
   -	Generally: Find best testing-training set ratio
   -	These models are all tested with the same train-test data set within the framework of Cross-Validation with t number of iterations.
@@ -43,15 +43,15 @@ Based on data of red and white wines from Portugal, we will try to predict the o
 ### How do you plan to evaluate your machine learning algorithm?
 •	Regression:&nbsp; 
 
-  o	Framework: K-fold Cross-Validation
+  • Framework: K-fold Cross-Validation
 
-  o	Metrics: RMSE, R^2
+  • Metrics: RMSE, R^2
 
 •	Classification:&nbsp; 
 
-  o	Framework: K-fold Cross-Validation
+  • Framework: K-fold Cross-Validation
 
-  o	Metrics: Confusion Matrix, ROC Curve, Precision & Recall Curve
+  • Metrics: Confusion Matrix, ROC Curve, Precision & Recall Curve
 ### Links to one or two relevant datasets.
   - https://archive.ics.uci.edu/ml/datasets/wine+quality
 ### One example of prior research on the topic.
