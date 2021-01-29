@@ -99,6 +99,10 @@ The dataset selected are related to red and white wine from a specific region ca
    <p align="center">
       <img src= "https://user-images.githubusercontent.com/49216807/105937792-1cdbb680-600b-11eb-9a08-cc125fd21564.PNG">
    </p>
+   
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/106338380-898fc480-6248-11eb-9f11-f939a9863eba.PNG">
+   </p>
 
 - Red wine:
  
@@ -110,4 +114,7 @@ The dataset selected are related to red and white wine from a specific region ca
    </p>
    <p align="center">
       <img src= "https://user-images.githubusercontent.com/49216807/105937891-4c8abe80-600b-11eb-8534-3c406aab6067.PNG">
+   </p>
+   <p align="center">
+      <img src= "https://user-images.githubusercontent.com/49216807/106338417-a88e5680-6248-11eb-87e6-592eb2bf2ed4.PNG">
    </p>
